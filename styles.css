@@ -11,3 +11,18 @@ img {
 .float-left {
   float: left;
 }
+
+.card {
+  padding: 5px;
+  width: 33%;
+  max-width: 500px;
+  min-width:300px;
+}
+
+.infoDivider {
+  width: 100px;
+  height: 4px;
+  background-color: #00000050;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
